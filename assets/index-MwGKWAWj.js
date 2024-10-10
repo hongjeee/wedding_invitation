@@ -367,7 +367,7 @@ Error generating stack: `+ o.message + `
   display: flex;
   flex-direction: column;
   text-align: left;
-`, TD = () => { const { lat: e, lon: t } = { lat: 127.0497041, lon: 37.5044068 }, n = fn(); return _.jsx(QT, { style: { width: "100%", height: "300px" }, children: _.jsx(OA, { defaultCenter: new n.LatLng(t, e), defaultZoom: 15, draggable: !1, pinchZoom: !1, scrollWheel: !1, keyboardShortcuts: !1, children: _.jsx(MT, { defaultPosition: new n.LatLng(t, e) }) }) }) }, AD = B.button`
+`, TD = () => { const { lat: e, lon: t } = { lat: 127.041253, lon: 37.504758 }, n = fn(); return _.jsx(QT, { style: { width: "100%", height: "300px" }, children: _.jsx(OA, { defaultCenter: new n.LatLng(t, e), defaultZoom: 15, draggable: !1, pinchZoom: !1, scrollWheel: !1, keyboardShortcuts: !1, children: _.jsx(MT, { defaultPosition: new n.LatLng(t, e) }) }) }) }, AD = B.button`
   font-family: "MapoFlowerIsland", "Noto Sans KR", "Apple SD Gothic Neo", serif;
   padding: 0.5em 0.8em;
   border-radius: 8px;
